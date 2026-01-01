@@ -1,5 +1,7 @@
 //PROBLEM STATEMENT- https://codeforces.com/problemset/problem/1605/B
-//SUBMISSION LINK- https://codeforces.com/problemset/submission/1605/356028086
+
+//SUBMISSION LINK- https://codeforces.com/problemset/submission/1605/356028420
+
 //APPROACH- For every gap, check the ones on left and zeroes on right using prefix and suffix sums
 //          if at any point, they are equal(and non zero), they can be swapped
 //TIME COMPLEXITY- O(n*n)
