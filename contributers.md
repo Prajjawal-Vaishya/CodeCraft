@@ -70,6 +70,10 @@
 | Aaryan Degama  |  Aaryan-Degama   |  IIIT Allahabad   |
 | Advait Mishra  |  Advait2912  |  IIIT Gwalior  |
 | Devanshu Chotiya | devanshuwebd | IIT Dhanbad |
+| Yogesh M | yogesh4216 | CIT Chennai |
+| Krishna Sikheriya  |  Krishna200608  |  IIIT Allahabad  |
+| Neeru  |  neeru24  |  CT University  |
+
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
